@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{12BCB31A-C22A-463E-90D6-909A5FEB2A8F}">
+	<children>
+		<child name="jenkins" key="{DCE68E29-CE3E-44CB-9ABE-AFFF8FF289D7}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="jenkins\jenkins.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{BBA33671-5036-4EA4-B353-D2EE8E7FAB2F}">
+		<children>
+			<testItem key="{DCE68E29-CE3E-44CB-9ABE-AFFF8FF289D7}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{5D95043E-9B21-4DCD-9156-C2E53CB8AC0C}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{344BA676-0E5A-4DDE-AF69-78E3C6AD6522}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>
